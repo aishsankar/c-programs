@@ -1,5 +1,5 @@
 #include <stdio.h>
-intmain(]
+int main[]
 {
    char str1[50], str2[50], i, j;
    printf("\nEnter first string: ");
